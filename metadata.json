@@ -1,0 +1,5 @@
+{
+  "name": "Natijati - Student Results Portal",
+  "description": "A secure, Arabic-language portal for students to check their exam results by verifying their identity via birth date and phone number.",
+  "requestFramePermissions": []
+}
